@@ -2,10 +2,16 @@ import React from 'react';
 import '../../App.css';
 
 
+
+
+
+
 export default function Services() {
     return (
         <>
-            <h1 className='services'>SERVICES</h1>;
+            {/* <h1 className='ser-text'>SERVICES</h1> */}
+            <video src='/videos/video-2.mp4' autoPlay loop muted />
+            <h1 className='products'>SERVICES</h1>
 
         </>
     )

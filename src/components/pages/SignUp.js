@@ -1,6 +1,14 @@
-import React from 'react';
+import React from 'react'
 import '../../App.css';
 
-export default function SignUp() {
-    return <h1 className='sign-up'>LIKE & SUBSCRIBE</h1>;
+function SignUp() {
+    return (
+        <div>
+            <video src='/videos/video-4.mp4' autoPlay loop muted />
+            <h1 className='products'>LIKE & SUBSCRIBE</h1>
+        </div>
+    )
 }
+
+export default SignUp
+
