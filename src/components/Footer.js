@@ -57,7 +57,7 @@ function Footer() {
                         <div className='footer-logo'>
                             <Link to='/' className='social-logo'>TRVEL<i className='fab fa-typo3' /></Link>
                         </div>
-                        <small className='website-rights'>TRVEL @ 2021</small>
+                        <small className='website-rights'>TRVEL @ 2021 developed by RH.Shanto</small>
                         <div className='social-icon'>
                             <Link className='social-icon-link facebook' to='/' target='_blank' aria-label='Facebook'><i className='fab fa-facebook' />
                             </Link>
